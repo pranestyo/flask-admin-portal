@@ -1,0 +1,5 @@
+APP_DEBUG = True
+APP_HOST = '0.0.0.0'
+APP_PORT = 8071
+SECRET_KEY = '$2a$12$p6Tr1VeNbO.YYYYYYTGBHH./8WsSz.e/iW'
+PATH_LOG = 'log/fe.log'
